@@ -50,6 +50,9 @@ Ensure you have the following installed:
    npm run dev  # or yarn dev
 The app will be available at http://localhost:3000.
 
-#Author
-####Developed by Mahi Jadaun
-Feel free to contribute, suggest improvements, or report issues! 😊
+
+## 👤 Author  
+
+Developed by **Mahi Jadaun** 🚀  
+
+Feel free to **contribute**, **suggest improvements**, or **report issues**! 😊  
