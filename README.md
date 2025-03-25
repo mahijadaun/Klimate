@@ -3,3 +3,5 @@ Klimate offers real-time weather updates and a 5-day forecast for your location,
 
 # Getting Started
 To run this project on your local machine for development and testing puposes, use the given steps below:
+##Make Sure to create a `.env` file with the following variable:
+`VITE_OPENWEATHER_API_KEY=`
