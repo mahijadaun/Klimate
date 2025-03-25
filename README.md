@@ -39,3 +39,17 @@ Ensure you have the following installed:
    ```sh
    git clone https://github.com/yourusername/klimate.git
    cd klimate
+2. **Install Dependencies**
+   ```sh
+   npm install
+3. **Set Up Environment Variables**
+   ```sh
+   NEXT_PUBLIC_OPENWEATHER_API_KEY=your_api_key_here
+4. **Run the Development Server**
+   ```sh
+   npm run dev  # or yarn dev
+The app will be available at http://localhost:3000.
+
+#Author
+####Developed by Mahi Jadaun
+Feel free to contribute, suggest improvements, or report issues! 😊
