@@ -49,7 +49,7 @@ Ensure you have the following installed:
 4. **Run the Development Server**
    ```sh
    npm run dev  # or yarn dev
-The app will be available at http://localhost:3000.
+The app will be available at https://bright-gnome-ebb83b.netlify.app/.
 
 
 ## 👤 Author  
